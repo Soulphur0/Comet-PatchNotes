@@ -1,6 +1,9 @@
 # How to configure Elytra Aeronautics using the /ean command
 The /ean command will be used for some versions of Elytra Aeronautics until I find a suitable config library for the mod, that can meet its requirements, for now, you can configure the mod using this command, which has the following structure, each option is explained below the image.
 
+![ean_command_diagram](https://github.com/Soulphur0/Soulphur-Mods-ResoucesAndChangelogs/blob/main/ElytraAeronautics/mod_resources/ean_command_diagram.png?raw=true)
+
+
 As you can see, the /ean command has two main config categories, FlightConfig, related to elytra flight; and CloudConfig, related to cloud rendering.
 <br><br>
 
