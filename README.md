@@ -1,13 +1,12 @@
-# Comet-Changelog
+# Soulphur-Mods-ResoucesAndChangelogs
 
 ## For users coming by:
-This repo contains the changelog classified by version of every release of the mod, with the intention of making a version history documenting content added with each patch.
+This repo contains the changelogs and resources used for my Minecraft mods' download pages. So you can ignore all of this...
 
-This can be useful to users familiarized with this mod in order to see what's new in the latest version.
+#### If you are unfamiliar with my mods you can download them here:
 
-#### If you are unfamiliar with ![Comet](https://github.com/Soulphur0/Comet/wiki), I'd recommend you to consult ![its wiki](https://github.com/Soulphur0/Comet/wiki) instead.
+![Comet - Expanding The End with new mechanics like mob crystallization and statue-making, new gear, and more!](https://www.modrinth.com/mod/comet)
 
-## Details of the repo
-There are several folders in the root of the repo, each one containing the changelog for every major version released (1.0.0, 1.1.0, 1.2.0,...) followed by the changelog of every minor release (1.0.1, 1.0.2, 1.0.3,...).
+![Elytra Aeronautucs - Fly with the elytra the higher you travel, customize cloud layers and much more!](https://www.modrinth.com/mod/elytra-aeronautics)
 
-Usually major releases are the ones which add content to the mod (blocks, items, etc.) and minor releases focus on bug fixing and tweaking, but there could be exceptions.
+
